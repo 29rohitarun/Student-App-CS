@@ -1,0 +1,27 @@
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\MySql.Data.dll
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\System.Memory.dll
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\System.Buffers.dll
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\bin\Debug\MySql.Data.xml
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.MainForm.resources
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.csproj.CopyComplete
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\samna\OneDrive\NCSU\Fall 23\Development\StudentApp\obj\Debug\StudentApp.pdb
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\bin\Debug\StudentApp.exe.config
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\bin\Debug\StudentApp.exe
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\bin\Debug\StudentApp.pdb
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.MainForm.resources
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.exe
+D:\PhotonUser\My Files\Google Drive\My Drive\BUS 442\StudentApp\obj\Debug\StudentApp.pdb
